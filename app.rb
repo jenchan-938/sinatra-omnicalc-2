@@ -32,6 +32,7 @@ end
 
 get("/multiply") do
   erb(:mult_form)
+ 
 end
 
 get("/wizard_multiply") do
